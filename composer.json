@@ -1,0 +1,7 @@
+{
+    "name": "GPS Global",
+    "description": "Test practico GPS Global",
+    "require": {
+        "illuminate/support": "5.6.*"
+    }
+}
